@@ -16,16 +16,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       20 mins             ███████████████████████░░   92.9% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/07/2021
+ Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
